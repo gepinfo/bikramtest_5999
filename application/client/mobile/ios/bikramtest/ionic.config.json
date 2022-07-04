@@ -1,0 +1,7 @@
+{
+  "name": "bikramtest",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
